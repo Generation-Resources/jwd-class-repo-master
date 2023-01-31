@@ -1,3 +1,3 @@
-# jwd-class-repo-master-01
+# jwd-class-repo-master
 
 Corresponds with Curriculum Index
